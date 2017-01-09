@@ -1,3 +1,4 @@
+Demo: https://jianyangzhang.github.io/Template-slidingcards/
 Video Demo: https://youtu.be/dPhElbLppWM   
 
 ![sc1](https://cloud.githubusercontent.com/assets/22739177/21437896/4957f0e6-c83b-11e6-8f75-e553f63fafb0.PNG)
